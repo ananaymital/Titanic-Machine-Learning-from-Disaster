@@ -21,7 +21,7 @@ Dependencies:
 From the competition [homepage](https://www.kaggle.com/c/titanic).
 
 # Goal for this Notebook:
-Show a simple example of an analysis of the Titanic disaster in Python.
+Show a simple but detailed analysis of the Titanic disaster in Python.
 
 ## This Notebook will uses basic examples of:
 
@@ -38,4 +38,4 @@ Show a simple example of an analysis of the Titanic disaster in Python.
 
 ## Valuation of the Analysis
 
-* Strtified K-fold cross validation to valuate results locally
+* Stratified K-fold cross validation to valuate results
